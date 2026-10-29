@@ -28,9 +28,9 @@
         </div>
 
         <div class="mb-3">
-            <label>Harga</label>
-            <textarea name="harga" required></textarea>
-        </div>
+    <label>Harga</label>
+    <textarea name="harga" required></textarea>
+</div>
         <button type="submit" class="btn btn-primary" name="submit">Simpan</button>
         <a href="index2.php" class="btn btn-primary ">Kembali</a>
     </form>
